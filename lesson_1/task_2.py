@@ -7,4 +7,4 @@ y2 = int(input("Enter integer: "))
 k = (y1 - y2) / (x1 - x2)
 b = y2 - k * x2
 
-print(k,b)
+print(k, b)
