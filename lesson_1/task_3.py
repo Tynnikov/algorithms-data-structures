@@ -11,4 +11,4 @@ if 97 <= a and b <= 122:
     c = a - b
     print(f'c={abs(c)}')
 else:
-    print("It wasn't be letter")
+    print("It wasn't be a letter")
