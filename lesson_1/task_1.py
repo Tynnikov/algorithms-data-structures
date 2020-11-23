@@ -12,3 +12,4 @@ m = a + b + c
 s = a * b * c
 
 print(m, s)
+
