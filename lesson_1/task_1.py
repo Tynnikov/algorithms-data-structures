@@ -1,3 +1,5 @@
+# Diagram link: https://drive.google.com/file/d/1q9BKvVrIQycmMT7Ft9oEay4Z3nCttNMK/view?usp=sharing
+
 # Найти сумму и произведение цифр трехзначного числа, которое вводит пользователь
 n = int(input("Enter three-digit number: "))
 
