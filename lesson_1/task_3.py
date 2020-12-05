@@ -1,5 +1,6 @@
 # Пользователь вводит две буквы. Определить, на каких местах алфавита они стоят, и сколько между ними находится букв.
 
+
 a = ord(input('Enter the letter between [a-z]: '))
 b = ord(input('Enter the letter between [a-z]: '))
 z = 96
