@@ -22,8 +22,6 @@ for i in range(len(array)):
 
 print(f'{number}, {count=}')
 
-
-
-#check myself
-print('-'*100)
+# check myself
+print('-' * 100)
 print(max(array, key=array.count))
