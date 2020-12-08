@@ -4,16 +4,16 @@
 
 from random import randint
 
-LINE = 4
-COLUMN = 4
+COLUMNS = 3
+LINES = 5
 MINIMUM = 1
 MAXIMUM = 100
 
 # Auto-input
-# matrix = [[randint(MINIMUM, MAXIMUM) for _ in range(LINE)] for _ in range(COLUMN)]
+# matrix = [[randint(MINIMUM, MAXIMUM) for _ in range(COLUMNS)] for _ in range(LINES)]
 
 # Manual - input
-matrix = [[int(input("Enter the number for matrix: ")) for _ in range(LINE)] for _ in range(COLUMN)]
+matrix = [[int(input("Enter the number for matrix: ")) for _ in range(COLUMNS)] for _ in range(LINES)]
 
 print('-' * 30, 'MATRIX', '-' * 30)
 
